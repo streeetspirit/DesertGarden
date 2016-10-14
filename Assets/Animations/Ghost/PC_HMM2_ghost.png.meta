@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 59905263f610f0f4fa79a9d707243b6a
+timeCreated: 1466813611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC_HMM2_ghost_0
+    21300002: PC_HMM2_ghost_1
+    21300004: PC_HMM2_ghost_2
+    21300006: PC_HMM2_ghost_3
+    21300008: PC_HMM2_ghost_4
+    21300010: PC_HMM2_ghost_5
+    21300012: PC_HMM2_ghost_6
+    21300014: PC_HMM2_ghost_7
+    21300016: PC_HMM2_ghost_8
+    21300018: PC_HMM2_ghost_9
+    21300020: PC_HMM2_ghost_10
+    21300022: PC_HMM2_ghost_11
+    21300024: PC_HMM2_ghost_12
+    21300026: PC_HMM2_ghost_13
+    21300028: PC_HMM2_ghost_14
+    21300030: PC_HMM2_ghost_15
+    21300032: PC_HMM2_ghost_16
+    21300034: PC_HMM2_ghost_17
+    21300036: PC_HMM2_ghost_18
+    21300038: PC_HMM2_ghost_19
+    21300040: PC_HMM2_ghost_20
+    21300042: PC_HMM2_ghost_21
+    21300044: PC_HMM2_ghost_22
+    21300046: PC_HMM2_ghost_23
+    21300048: PC_HMM2_ghost_24
+    21300050: PC_HMM2_ghost_25
+    21300052: PC_HMM2_ghost_26
+    21300054: PC_HMM2_ghost_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC_HMM2_ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -1.5}
+        - {x: 23.5, y: 17.5}
+        - {x: 20.5, y: 34.5}
+        - {x: 8.5, y: 39.5}
+        - {x: -5.5, y: 39.5}
+        - {x: -14.5, y: 34.5}
+        - {x: -17.5, y: 27.5}
+        - {x: -21.5, y: 3.5}
+        - {x: -21.5, y: -30.5}
+        - {x: 7.5, y: -30.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 18.5, y: -18.5}
+    - name: PC_HMM2_ghost_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 40.5}
+        - {x: -19.5, y: -30.5}
+        - {x: 5.5, y: -30.5}
+        - {x: 24.5, y: -25.5}
+        - {x: 24.5, y: 19.5}
+        - {x: 16.5, y: 40.5}
+    - name: PC_HMM2_ghost_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 274
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24.5}
+        - {x: -21, y: -27.5}
+        - {x: -20, y: -30.5}
+        - {x: 10, y: -30.5}
+        - {x: 22, y: -25.5}
+        - {x: 22, y: 33.5}
+        - {x: 21, y: 40.5}
+        - {x: 18, y: 42.5}
+        - {x: -5, y: 42.5}
+        - {x: -16, y: 39.5}
+    - name: PC_HMM2_ghost_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 274
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -27.5}
+        - {x: -22, y: -30.5}
+        - {x: 8, y: -30.5}
+        - {x: 25, y: -27.5}
+        - {x: 25, y: 44.5}
+        - {x: -12, y: 44.5}
+        - {x: -24, y: -13.5}
+    - name: PC_HMM2_ghost_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 274
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 44.5}
+        - {x: -15.5, y: 42.5}
+        - {x: -24.5, y: -0.5}
+        - {x: -24.5, y: -30.5}
+        - {x: 4.5, y: -30.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 23.5, y: 37.5}
+        - {x: 19.5, y: 44.5}
+    - name: PC_HMM2_ghost_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 274
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 41.5}
+        - {x: -15, y: 30.5}
+        - {x: -20, y: 3.5}
+        - {x: -21, y: -6.5}
+        - {x: -21, y: -29.5}
+        - {x: -20, y: -30.5}
+        - {x: 3, y: -30.5}
+        - {x: 25, y: -26.5}
+        - {x: 25, y: 23.5}
+        - {x: 18, y: 41.5}
+    - name: PC_HMM2_ghost_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 274
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 39.5}
+        - {x: -19, y: 27.5}
+        - {x: -16, y: 24.5}
+        - {x: -8, y: 24.5}
+        - {x: -17, y: 24.5}
+        - {x: -24, y: 4.5}
+        - {x: -24, y: -30.5}
+        - {x: 10, y: -30.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: 39.5}
+    - name: PC_HMM2_ghost_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 274
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 39.5}
+        - {x: -14.5, y: 39.5}
+        - {x: -22.5, y: 27.5}
+        - {x: -22.5, y: 5.5}
+        - {x: -14.5, y: 4.5}
+        - {x: -14.5, y: 6.5}
+        - {x: -10.5, y: 6.5}
+        - {x: -12.5, y: 6.5}
+        - {x: -16.5, y: 1.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -23.5, y: -13.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 2.5, y: -30.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 20.5, y: 26.5}
+        - {x: 19.5, y: 32.5}
+    - name: PC_HMM2_ghost_8
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 274
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -17.5}
+        - {x: -24.5, y: -28.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 3.5, y: -30.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 21.5, y: 27.5}
+        - {x: 20.5, y: 34.5}
+        - {x: 12.5, y: 41.5}
+        - {x: -4.5, y: 41.5}
+        - {x: -17.5, y: 39.5}
+    - name: PC_HMM2_ghost_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 45.75}
+        - {x: -33, y: 45.75}
+        - {x: -39, y: 41.75}
+        - {x: -47, y: -0.25}
+        - {x: -47, y: -26.25}
+        - {x: -45, y: -29.25}
+        - {x: -19, y: -29.25}
+        - {x: 4, y: -12.25}
+        - {x: 2, y: -9.25}
+        - {x: 8, y: 17.75}
+    - name: PC_HMM2_ghost_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 24.75}
+        - {x: 15, y: 46.75}
+        - {x: -26, y: 46.75}
+        - {x: -38, y: 36.75}
+        - {x: -40, y: 28.75}
+        - {x: -40, y: -28.25}
+        - {x: -38, y: -29.25}
+        - {x: -9, y: -29.25}
+        - {x: 12, y: -15.25}
+        - {x: 14, y: -10.25}
+        - {x: 7, y: -6.25}
+    - name: PC_HMM2_ghost_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 40.75}
+        - {x: -36, y: 34.75}
+        - {x: -36, y: -29.25}
+        - {x: 2, y: -29.25}
+        - {x: 8, y: -26.25}
+        - {x: 8, y: 39.75}
+        - {x: 7, y: 40.75}
+    - name: PC_HMM2_ghost_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 43.75}
+        - {x: -23, y: 29.75}
+        - {x: -16, y: 25.75}
+        - {x: -11, y: 25.75}
+        - {x: -13, y: 25.75}
+        - {x: -18, y: 22.75}
+        - {x: -41, y: -15.25}
+        - {x: -41, y: -29.25}
+        - {x: -6, y: -29.25}
+        - {x: 16, y: -12.25}
+        - {x: 22, y: 21.75}
+        - {x: 22, y: 43.75}
+    - name: PC_HMM2_ghost_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 36.75}
+        - {x: -29, y: 14.75}
+        - {x: -29, y: -29.25}
+        - {x: 17, y: -29.25}
+        - {x: 39, y: -19.25}
+        - {x: 40, y: -15.25}
+        - {x: 40, y: 36.75}
+    - name: PC_HMM2_ghost_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.75}
+        - {x: -34, y: 2.75}
+        - {x: -34, y: -28.25}
+        - {x: -29, y: -30.25}
+        - {x: 29, y: -30.25}
+        - {x: 33, y: -28.25}
+        - {x: 33, y: 11.75}
+        - {x: 31, y: 15.75}
+        - {x: 21, y: 25.75}
+    - name: PC_HMM2_ghost_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 11.75}
+        - {x: -30, y: 11.75}
+        - {x: -30, y: -34.25}
+        - {x: 1, y: -45.25}
+        - {x: 30, y: -45.25}
+        - {x: 34, y: -43.25}
+        - {x: 34, y: -7.25}
+    - name: PC_HMM2_ghost_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -29.25}
+        - {x: 33, y: -29.25}
+        - {x: 41, y: -26.25}
+        - {x: 44, y: -18.25}
+        - {x: 44, y: -14.25}
+        - {x: 35, y: 5.75}
+        - {x: -23, y: 5.75}
+        - {x: -23, y: -15.25}
+        - {x: -22, y: -21.25}
+        - {x: -12, y: -28.25}
+        - {x: -6, y: -28.25}
+        - {x: -19, y: -28.25}
+        - {x: -23, y: -32.25}
+        - {x: -23, y: -38.25}
+        - {x: -16, y: -45.25}
+        - {x: 44, y: -45.25}
+        - {x: 44, y: -34.25}
+        - {x: 36, y: -29.25}
+    - name: PC_HMM2_ghost_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 182.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28.75}
+        - {x: -9, y: 23.75}
+        - {x: -22, y: -0.25}
+        - {x: -22, y: -29.25}
+        - {x: 36, y: -29.25}
+        - {x: 45, y: -28.25}
+        - {x: 45, y: 12.75}
+        - {x: 31, y: 28.75}
+    - name: PC_HMM2_ghost_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 33.75}
+        - {x: -23, y: 33.75}
+        - {x: -41, y: 20.75}
+        - {x: -41, y: -3.25}
+        - {x: -25, y: -5.25}
+        - {x: -19, y: -3.25}
+        - {x: -25, y: -8.25}
+        - {x: -28, y: -16.25}
+        - {x: -25, y: -17.25}
+        - {x: -15, y: -17.25}
+        - {x: -19, y: -17.25}
+        - {x: -40, y: -25.25}
+        - {x: -41, y: -26.25}
+        - {x: -41, y: -30.25}
+        - {x: -40, y: -34.25}
+        - {x: -24, y: -40.25}
+        - {x: -22, y: -41.25}
+        - {x: 7, y: -41.25}
+        - {x: 17, y: -36.25}
+        - {x: 17, y: -2.25}
+    - name: PC_HMM2_ghost_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 38.75}
+        - {x: -26, y: 38.75}
+        - {x: -45, y: 22.75}
+        - {x: -45, y: 2.75}
+        - {x: -42, y: -9.25}
+        - {x: -22, y: -9.25}
+        - {x: -19, y: -7.25}
+        - {x: -16, y: -9.25}
+        - {x: -16, y: -8.25}
+        - {x: -17, y: -9.25}
+        - {x: -19, y: -8.25}
+        - {x: -20, y: -9.25}
+        - {x: -24, y: -9.25}
+        - {x: -26, y: -11.25}
+        - {x: -44, y: -22.25}
+        - {x: -45, y: -25.25}
+        - {x: -45, y: -37.25}
+        - {x: -43, y: -41.25}
+        - {x: 16, y: -41.25}
+        - {x: 16, y: 9.75}
+      - - {x: -36, y: -8.25}
+        - {x: -41, y: -12.25}
+        - {x: -40, y: -15.25}
+        - {x: -32, y: -15.25}
+        - {x: -30, y: -11.25}
+        - {x: -30, y: -9.25}
+        - {x: -32, y: -8.25}
+    - name: PC_HMM2_ghost_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 7.75}
+        - {x: -26, y: 0.75}
+        - {x: -26, y: -38.25}
+        - {x: 35, y: -38.25}
+        - {x: 35, y: -18.25}
+        - {x: 9, y: 7.75}
+    - name: PC_HMM2_ghost_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -4.25}
+        - {x: -2, y: -15.25}
+        - {x: -2, y: -19.25}
+        - {x: -2, y: -17.25}
+        - {x: -4, y: -11.25}
+        - {x: -18, y: -13.25}
+        - {x: -18, y: -36.25}
+        - {x: -13, y: -38.25}
+        - {x: 28, y: -38.25}
+        - {x: 39, y: -36.25}
+        - {x: 39, y: -21.25}
+        - {x: 19, y: -4.25}
+    - name: PC_HMM2_ghost_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -14.25}
+        - {x: -4, y: -19.25}
+        - {x: -4, y: -38.25}
+        - {x: 34, y: -38.25}
+        - {x: 43, y: -37.25}
+        - {x: 43, y: -26.25}
+        - {x: 30, y: -14.25}
+    - name: PC_HMM2_ghost_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -17.25}
+        - {x: -1, y: -25.25}
+        - {x: -1, y: -36.25}
+        - {x: 3, y: -38.25}
+        - {x: 45, y: -38.25}
+        - {x: 47, y: -33.25}
+        - {x: 47, y: -25.25}
+        - {x: 37, y: -17.25}
+    - name: PC_HMM2_ghost_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -18.25}
+        - {x: 3, y: -22.25}
+        - {x: 3, y: -32.25}
+        - {x: 7, y: -37.25}
+        - {x: 48, y: -37.25}
+        - {x: 50, y: -33.25}
+        - {x: 50, y: -24.25}
+        - {x: 41, y: -18.25}
+    - name: PC_HMM2_ghost_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -18.25}
+        - {x: 6, y: -29.25}
+        - {x: 6, y: -34.25}
+        - {x: 10, y: -37.25}
+        - {x: 49, y: -37.25}
+        - {x: 50, y: -36.25}
+        - {x: 50, y: -25.25}
+        - {x: 35, y: -18.25}
+      - - {x: 19, y: 46.75}
+        - {x: 21, y: 41.75}
+        - {x: 23, y: 40.75}
+        - {x: 33, y: 40.75}
+        - {x: 35, y: 42.75}
+        - {x: 34, y: 46.75}
+    - name: PC_HMM2_ghost_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 91.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -35.25}
+        - {x: -47, y: -34.25}
+        - {x: -47, y: -29.25}
+        - {x: -49, y: -27.25}
+        - {x: -50, y: -27.25}
+    - name: PC_HMM2_ghost_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 100
+        height: 91.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 29.75}
+        - {x: -40, y: 25.75}
+        - {x: -40, y: -33.25}
+        - {x: -33, y: -40.25}
+        - {x: -6, y: -40.25}
+        - {x: -1, y: -38.25}
+        - {x: -1, y: 29.75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

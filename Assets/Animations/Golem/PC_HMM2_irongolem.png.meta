@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: 52a44c3df69726947954dfa586d8943a
+timeCreated: 1466809157
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC_HMM2_irongolem_0
+    21300002: PC_HMM2_irongolem_1
+    21300004: PC_HMM2_irongolem_2
+    21300006: PC_HMM2_irongolem_3
+    21300008: PC_HMM2_irongolem_4
+    21300010: PC_HMM2_irongolem_5
+    21300012: PC_HMM2_irongolem_6
+    21300014: PC_HMM2_irongolem_7
+    21300016: PC_HMM2_irongolem_8
+    21300018: PC_HMM2_irongolem_9
+    21300020: PC_HMM2_irongolem_10
+    21300022: PC_HMM2_irongolem_11
+    21300024: PC_HMM2_irongolem_12
+    21300026: PC_HMM2_irongolem_13
+    21300028: PC_HMM2_irongolem_14
+    21300030: PC_HMM2_irongolem_15
+    21300032: PC_HMM2_irongolem_16
+    21300034: PC_HMM2_irongolem_17
+    21300036: PC_HMM2_irongolem_18
+    21300038: PC_HMM2_irongolem_19
+    21300040: PC_HMM2_irongolem_20
+    21300042: PC_HMM2_irongolem_21
+    21300044: PC_HMM2_irongolem_22
+    21300046: PC_HMM2_irongolem_23
+    21300048: PC_HMM2_irongolem_24
+    21300050: PC_HMM2_irongolem_25
+    21300052: PC_HMM2_irongolem_26
+    21300054: PC_HMM2_irongolem_27
+    21300056: PC_HMM2_irongolem_28
+    21300058: PC_HMM2_irongolem_29
+    21300060: PC_HMM2_irongolem_30
+    21300062: PC_HMM2_irongolem_31
+    21300064: PC_HMM2_irongolem_32
+    21300066: PC_HMM2_irongolem_33
+    21300068: PC_HMM2_irongolem_34
+    21300070: PC_HMM2_irongolem_35
+    21300072: PC_HMM2_irongolem_36
+    21300074: PC_HMM2_irongolem_37
+    21300076: PC_HMM2_irongolem_38
+    21300078: PC_HMM2_irongolem_39
+    21300080: PC_HMM2_irongolem_40
+    21300082: PC_HMM2_irongolem_41
+    21300084: PC_HMM2_irongolem_42
+    21300086: PC_HMM2_irongolem_43
+    21300088: PC_HMM2_irongolem_44
+    21300090: PC_HMM2_irongolem_45
+    21300092: PC_HMM2_irongolem_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC_HMM2_irongolem_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 42}
+        - {x: -8, y: 42}
+        - {x: -19, y: 26}
+        - {x: -19, y: -37}
+        - {x: -15, y: -42}
+        - {x: 19, y: -42}
+        - {x: 19, y: 31}
+        - {x: 15, y: 40}
+    - name: PC_HMM2_irongolem_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 392
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 42}
+        - {x: -18.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 42}
+    - name: PC_HMM2_irongolem_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 392
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 42}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: -38}
+        - {x: -14.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 41}
+        - {x: 16.5, y: 42}
+    - name: PC_HMM2_irongolem_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 392
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 42}
+        - {x: -19, y: 32}
+        - {x: -19, y: -40}
+        - {x: -17, y: -42}
+        - {x: 19, y: -42}
+        - {x: 19, y: 20}
+        - {x: 12, y: 42}
+    - name: PC_HMM2_irongolem_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 392
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 42}
+        - {x: -19, y: 33}
+        - {x: -19, y: -42}
+        - {x: 19, y: -42}
+        - {x: 19, y: 20}
+        - {x: 12, y: 42}
+    - name: PC_HMM2_irongolem_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 392
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 42}
+        - {x: -18.5, y: 32}
+        - {x: -18.5, y: -38}
+        - {x: -15.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 26}
+        - {x: 11.5, y: 42}
+    - name: PC_HMM2_irongolem_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 392
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 42}
+        - {x: -18.5, y: 35}
+        - {x: -18.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 42}
+    - name: PC_HMM2_irongolem_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 299
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 42}
+        - {x: -19, y: 38}
+        - {x: -19, y: -42}
+        - {x: 19, y: -42}
+        - {x: 19, y: 29}
+        - {x: 14, y: 42}
+    - name: PC_HMM2_irongolem_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 299
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 41.5}
+        - {x: -11.5, y: 41.5}
+        - {x: -20.5, y: 31.5}
+        - {x: -20.5, y: -41.5}
+        - {x: 20.5, y: -41.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 11.5, y: 39.5}
+    - name: PC_HMM2_irongolem_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 299
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 41.5}
+        - {x: -16, y: 25.5}
+        - {x: -17, y: 21.5}
+        - {x: -17, y: -41.5}
+        - {x: 17, y: -41.5}
+        - {x: 17, y: 38.5}
+        - {x: 13, y: 41.5}
+    - name: PC_HMM2_irongolem_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 299
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 42}
+        - {x: -18.5, y: 24}
+        - {x: -18.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 42}
+    - name: PC_HMM2_irongolem_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 299
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 42}
+        - {x: -18.5, y: -42}
+        - {x: 13.5, y: -42}
+        - {x: 18.5, y: -40}
+        - {x: 18.5, y: 42}
+    - name: PC_HMM2_irongolem_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 299
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -34.5}
+        - {x: 20, y: -33.5}
+        - {x: 20, y: 41.5}
+        - {x: -4, y: 41.5}
+        - {x: -20, y: 32.5}
+        - {x: -20, y: -39.5}
+        - {x: -16, y: -41.5}
+        - {x: 16, y: -41.5}
+        - {x: 17, y: -36.5}
+        - {x: 13, y: -34.5}
+        - {x: 10, y: -34.5}
+    - name: PC_HMM2_irongolem_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 299
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 41.5}
+        - {x: -18.5, y: 32.5}
+        - {x: -18.5, y: -41.5}
+        - {x: 18.5, y: -41.5}
+        - {x: 18.5, y: 41.5}
+    - name: PC_HMM2_irongolem_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 299
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42}
+        - {x: -17.5, y: 33}
+        - {x: -17.5, y: -39}
+        - {x: -16.5, y: -42}
+        - {x: 15.5, y: -42}
+        - {x: 17.5, y: -40}
+        - {x: 17.5, y: 42}
+    - name: PC_HMM2_irongolem_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 299
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 41.5}
+        - {x: -20.5, y: 33.5}
+        - {x: -20.5, y: -41.5}
+        - {x: 20.5, y: -41.5}
+        - {x: 20.5, y: -6.5}
+        - {x: 14.5, y: 41.5}
+    - name: PC_HMM2_irongolem_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 299
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 41.5}
+        - {x: -17.5, y: 29.5}
+        - {x: -17.5, y: -41.5}
+        - {x: 17.5, y: -41.5}
+        - {x: 17.5, y: 19.5}
+        - {x: 16.5, y: 33.5}
+        - {x: 10.5, y: 41.5}
+    - name: PC_HMM2_irongolem_17
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 299
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 42}
+        - {x: -18.5, y: 33}
+        - {x: -18.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 18.5, y: 42}
+    - name: PC_HMM2_irongolem_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 42}
+        - {x: -19.5, y: 42}
+        - {x: -19.5, y: -42}
+        - {x: 19.5, y: -42}
+        - {x: 19.5, y: 35}
+        - {x: 18.5, y: 37}
+    - name: PC_HMM2_irongolem_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 200
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 42.5}
+        - {x: -13.5, y: 42.5}
+        - {x: -17.5, y: 34.5}
+        - {x: -17.5, y: -42.5}
+        - {x: 9.5, y: -42.5}
+        - {x: 10.5, y: -41.5}
+        - {x: 17.5, y: -39.5}
+        - {x: 17.5, y: 35.5}
+    - name: PC_HMM2_irongolem_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 200
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 44}
+        - {x: -17.5, y: -44}
+        - {x: 17.5, y: -44}
+        - {x: 17.5, y: 40}
+        - {x: 8.5, y: 44}
+    - name: PC_HMM2_irongolem_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 200
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 41}
+        - {x: -19.5, y: 41}
+        - {x: -23.5, y: 17}
+        - {x: -23.5, y: -41}
+        - {x: 3.5, y: -41}
+        - {x: 4.5, y: -40}
+        - {x: 4.5, y: -35}
+        - {x: 23.5, y: -38}
+    - name: PC_HMM2_irongolem_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 228
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16.5}
+        - {x: 0, y: 9.5}
+        - {x: -22, y: 4.5}
+        - {x: -22, y: -5.5}
+        - {x: -21, y: -8.5}
+        - {x: -8, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 22, y: -1.5}
+        - {x: 22, y: 11.5}
+        - {x: 17, y: 16.5}
+    - name: PC_HMM2_irongolem_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 228
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16.5}
+        - {x: -22, y: 3.5}
+        - {x: -22, y: -9.5}
+        - {x: -1, y: -16.5}
+        - {x: 22, y: -16.5}
+        - {x: 22, y: 7.5}
+        - {x: 20, y: 16.5}
+    - name: PC_HMM2_irongolem_24
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 248
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16.5}
+        - {x: 3, y: 9.5}
+        - {x: -19, y: 1.5}
+        - {x: -19, y: -4.5}
+        - {x: -17, y: -8.5}
+        - {x: 2, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 15.5}
+        - {x: 18, y: 16.5}
+    - name: PC_HMM2_irongolem_25
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 248
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -9.5}
+        - {x: -18, y: -12.5}
+        - {x: -2, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+    - name: PC_HMM2_irongolem_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 248
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 16.5}
+        - {x: -11.5, y: 11.5}
+        - {x: -19.5, y: 4.5}
+        - {x: -19.5, y: -15.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 19.5, y: 16.5}
+    - name: PC_HMM2_irongolem_27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 194
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16.5}
+        - {x: -19, y: 1.5}
+        - {x: -19, y: -12.5}
+        - {x: -1, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+    - name: PC_HMM2_irongolem_28
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 194
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16.5}
+        - {x: 3, y: 9.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -7.5}
+        - {x: -5, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 15.5}
+        - {x: 18, y: 16.5}
+    - name: PC_HMM2_irongolem_29
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 194
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 16.5}
+        - {x: -19, y: 6.5}
+        - {x: -19, y: -6.5}
+        - {x: -11, y: -14.5}
+        - {x: 0, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+    - name: PC_HMM2_irongolem_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 42}
+        - {x: -19.5, y: -42}
+        - {x: 19.5, y: -42}
+        - {x: 19.5, y: 42}
+    - name: PC_HMM2_irongolem_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 103
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 42}
+        - {x: -10.5, y: 42}
+        - {x: -20.5, y: 28}
+        - {x: -20.5, y: -42}
+        - {x: 20.5, y: -42}
+        - {x: 20.5, y: 25}
+        - {x: 11.5, y: 40}
+    - name: PC_HMM2_irongolem_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 103
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 43}
+        - {x: -23.5, y: -40}
+        - {x: -22.5, y: -43}
+        - {x: 23.5, y: -43}
+        - {x: 23.5, y: 43}
+    - name: PC_HMM2_irongolem_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 103
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -13.5}
+        - {x: 28.5, y: 30.5}
+        - {x: 25.5, y: 35.5}
+        - {x: -5.5, y: 35.5}
+        - {x: -18.5, y: 33.5}
+        - {x: -27.5, y: 2.5}
+        - {x: -28.5, y: -7.5}
+        - {x: -28.5, y: -35.5}
+        - {x: 17.5, y: -35.5}
+        - {x: 28.5, y: -31.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 26.5, y: -20.5}
+    - name: PC_HMM2_irongolem_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 103
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 40}
+        - {x: -18.5, y: 28}
+        - {x: -22.5, y: 2}
+        - {x: -22.5, y: -40}
+        - {x: 17.5, y: -40}
+        - {x: 22.5, y: -32}
+        - {x: 22.5, y: 30}
+        - {x: 20.5, y: 40}
+    - name: PC_HMM2_irongolem_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 105
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 41}
+        - {x: -23, y: 41}
+        - {x: -23, y: -41}
+        - {x: 23, y: -41}
+        - {x: 23, y: 22}
+        - {x: 12, y: 40}
+    - name: PC_HMM2_irongolem_36
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 105
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 41.5}
+        - {x: -10, y: 41.5}
+        - {x: -19, y: 35.5}
+        - {x: -19, y: -35.5}
+        - {x: -14, y: -41.5}
+        - {x: 19, y: -41.5}
+        - {x: 19, y: 13.5}
+        - {x: 14, y: 40.5}
+    - name: PC_HMM2_irongolem_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 42}
+        - {x: -19.5, y: 29}
+        - {x: -19.5, y: -42}
+        - {x: 15.5, y: -42}
+        - {x: 19.5, y: -37}
+        - {x: 19.5, y: 24}
+        - {x: 6.5, y: 42}
+    - name: PC_HMM2_irongolem_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 41}
+        - {x: -25, y: -41}
+        - {x: 25, y: -41}
+        - {x: 25, y: 41}
+    - name: PC_HMM2_irongolem_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 27}
+        - {x: -21.5, y: 17}
+        - {x: -21.5, y: -27}
+        - {x: 21.5, y: -27}
+        - {x: 21.5, y: 26}
+        - {x: 18.5, y: 27}
+    - name: PC_HMM2_irongolem_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 41}
+        - {x: -19.5, y: 34}
+        - {x: -19.5, y: -36}
+        - {x: -17.5, y: -41}
+        - {x: 19.5, y: -41}
+        - {x: 19.5, y: 41}
+    - name: PC_HMM2_irongolem_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 40}
+        - {x: -26, y: 21}
+        - {x: -26, y: -37}
+        - {x: -24, y: -40}
+        - {x: 26, y: -40}
+        - {x: 26, y: 18}
+        - {x: 3, y: 40}
+    - name: PC_HMM2_irongolem_42
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 9
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 33}
+        - {x: -28, y: 23}
+        - {x: -28, y: -31}
+        - {x: -16, y: -33}
+        - {x: 28, y: -33}
+        - {x: 28, y: 28}
+        - {x: 17, y: 33}
+    - name: PC_HMM2_irongolem_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 10
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 26.5}
+        - {x: -27, y: 23.5}
+        - {x: -27, y: -26.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: 26.5}
+    - name: PC_HMM2_irongolem_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 12
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 23}
+        - {x: -27.5, y: 15}
+        - {x: -27.5, y: 0}
+        - {x: -26.5, y: -2}
+        - {x: -27.5, y: -9}
+        - {x: -27.5, y: -19}
+        - {x: -18.5, y: -19}
+        - {x: -9.5, y: -23}
+        - {x: 27.5, y: -23}
+        - {x: 27.5, y: 23}
+    - name: PC_HMM2_irongolem_45
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 16
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC_HMM2_irongolem_46
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 14
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

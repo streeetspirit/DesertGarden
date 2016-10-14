@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 95c63e056a7d0294b82faf5dd27a9cc6
+timeCreated: 1466719892
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_batterfly__x1_front_turned_png_1354831847_0
+    21300002: npc_batterfly__x1_front_turned_png_1354831847_1
+    21300004: npc_batterfly__x1_front_turned_png_1354831847_2
+    21300006: npc_batterfly__x1_front_turned_png_1354831847_3
+    21300008: npc_batterfly__x1_front_turned_png_1354831847_4
+    21300010: npc_batterfly__x1_front_turned_png_1354831847_5
+    21300012: npc_batterfly__x1_front_turned_png_1354831847_6
+    21300014: npc_batterfly__x1_front_turned_png_1354831847_7
+    21300016: npc_batterfly__x1_front_turned_png_1354831847_8
+    21300018: npc_batterfly__x1_front_turned_png_1354831847_9
+    21300020: npc_batterfly__x1_front_turned_png_1354831847_10
+    21300022: npc_batterfly__x1_front_turned_png_1354831847_11
+    21300024: npc_batterfly__x1_front_turned_png_1354831847_12
+    21300026: npc_batterfly__x1_front_turned_png_1354831847_13
+    21300028: npc_batterfly__x1_front_turned_png_1354831847_14
+    21300030: npc_batterfly__x1_front_turned_png_1354831847_15
+    21300032: npc_batterfly__x1_front_turned_png_1354831847_16
+    21300034: npc_batterfly__x1_front_turned_png_1354831847_17
+    21300036: npc_batterfly__x1_front_turned_png_1354831847_18
+    21300038: npc_batterfly__x1_front_turned_png_1354831847_19
+    21300040: npc_batterfly__x1_front_turned_png_1354831847_20
+    21300042: npc_batterfly__x1_front_turned_png_1354831847_21
+    21300044: npc_batterfly__x1_front_turned_png_1354831847_22
+    21300046: npc_batterfly__x1_front_turned_png_1354831847_23
+    21300048: npc_batterfly__x1_front_turned_png_1354831847_24
+    21300050: npc_batterfly__x1_front_turned_png_1354831847_25
+    21300052: npc_batterfly__x1_front_turned_png_1354831847_26
+    21300054: npc_batterfly__x1_front_turned_png_1354831847_27
+    21300056: npc_batterfly__x1_front_turned_png_1354831847_28
+    21300058: npc_batterfly__x1_front_turned_png_1354831847_29
+    21300060: npc_batterfly__x1_front_turned_png_1354831847_30
+    21300062: npc_batterfly__x1_front_turned_png_1354831847_31
+    21300064: npc_batterfly__x1_front_turned_png_1354831847_32
+    21300066: npc_batterfly__x1_front_turned_png_1354831847_33
+    21300068: npc_batterfly__x1_front_turned_png_1354831847_34
+    21300070: npc_batterfly__x1_front_turned_png_1354831847_35
+    21300072: npc_batterfly__x1_front_turned_png_1354831847_36
+    21300074: npc_batterfly__x1_front_turned_png_1354831847_37
+    21300076: npc_batterfly__x1_front_turned_png_1354831847_38
+    21300078: npc_batterfly__x1_front_turned_png_1354831847_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_batterfly__x1_front_turned_png_1354831847_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 47}
+        - {x: -40.5, y: 47}
+        - {x: -40.5, y: 5}
+        - {x: -38.5, y: -4}
+        - {x: -29.5, y: -15}
+        - {x: -19.5, y: -18}
+        - {x: 33.5, y: -18}
+        - {x: 39.5, y: -5}
+        - {x: 39.5, y: 47}
+        - {x: 33.5, y: 47}
+        - {x: 23.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24}
+        - {x: -16.5, y: 37}
+        - {x: -36.5, y: 37}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: -16.5, y: -17}
+        - {x: 28.5, y: -17}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 37}
+        - {x: 31.5, y: 37}
+        - {x: 24.5, y: 36}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 11}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -21}
+        - {x: 39.5, y: -21}
+        - {x: 39.5, y: 11}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 13}
+        - {x: -40.5, y: -21}
+        - {x: -34.5, y: -28}
+        - {x: 39.5, y: -28}
+        - {x: 39.5, y: 13}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -40.5, y: 10}
+        - {x: -40.5, y: -27}
+        - {x: -39.5, y: -30}
+        - {x: -33.5, y: -32}
+        - {x: 39.5, y: -32}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -33}
+        - {x: 39.5, y: -31}
+        - {x: 39.5, y: 3}
+        - {x: 29.5, y: 9}
+        - {x: 16.5, y: 15}
+        - {x: -22.5, y: 15}
+        - {x: -29.5, y: 13}
+        - {x: -40.5, y: 2}
+        - {x: -40.5, y: -26}
+        - {x: -34.5, y: -34}
+        - {x: -21.5, y: -34}
+        - {x: -9.5, y: -27}
+        - {x: -3.5, y: -20}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 14}
+        - {x: -40.5, y: 11}
+        - {x: -40.5, y: -20}
+        - {x: -39.5, y: -24}
+        - {x: 39.5, y: -24}
+        - {x: 39.5, y: 7}
+        - {x: 35.5, y: 14}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: 32.5, y: -13}
+        - {x: 39.5, y: 0}
+        - {x: 39.5, y: 30}
+        - {x: 36.5, y: 31}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 38}
+        - {x: 38.5, y: 41}
+        - {x: -41.5, y: 41}
+        - {x: -41.5, y: -7}
+        - {x: -35.5, y: -14}
+        - {x: 22.5, y: -14}
+        - {x: 30.5, y: -8}
+        - {x: 39.5, y: 6}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46}
+        - {x: -40.5, y: -4}
+        - {x: -24.5, y: -16}
+        - {x: 37.5, y: -16}
+        - {x: 39.5, y: -8}
+        - {x: 39.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 47}
+        - {x: -40.5, y: 47}
+        - {x: -40.5, y: 5}
+        - {x: -38.5, y: -4}
+        - {x: -29.5, y: -15}
+        - {x: -19.5, y: -18}
+        - {x: 33.5, y: -18}
+        - {x: 39.5, y: -5}
+        - {x: 39.5, y: 47}
+        - {x: 33.5, y: 47}
+        - {x: 23.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24}
+        - {x: -16.5, y: 37}
+        - {x: -36.5, y: 37}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: -16.5, y: -17}
+        - {x: 28.5, y: -17}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 37}
+        - {x: 31.5, y: 37}
+        - {x: 24.5, y: 36}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 11}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -21}
+        - {x: 39.5, y: -21}
+        - {x: 39.5, y: 11}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 13}
+        - {x: -40.5, y: -21}
+        - {x: -34.5, y: -28}
+        - {x: 39.5, y: -28}
+        - {x: 39.5, y: 13}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -40.5, y: 10}
+        - {x: -40.5, y: -27}
+        - {x: -39.5, y: -30}
+        - {x: -33.5, y: -32}
+        - {x: 39.5, y: -32}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -33}
+        - {x: 39.5, y: -31}
+        - {x: 39.5, y: 3}
+        - {x: 29.5, y: 9}
+        - {x: 16.5, y: 15}
+        - {x: -22.5, y: 15}
+        - {x: -29.5, y: 13}
+        - {x: -40.5, y: 2}
+        - {x: -40.5, y: -26}
+        - {x: -34.5, y: -34}
+        - {x: -21.5, y: -34}
+        - {x: -9.5, y: -27}
+        - {x: -3.5, y: -20}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 14}
+        - {x: -40.5, y: 11}
+        - {x: -40.5, y: -20}
+        - {x: -39.5, y: -24}
+        - {x: 39.5, y: -24}
+        - {x: 39.5, y: 7}
+        - {x: 35.5, y: 14}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: 32.5, y: -13}
+        - {x: 39.5, y: 0}
+        - {x: 39.5, y: 30}
+        - {x: 36.5, y: 31}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 38}
+        - {x: 38.5, y: 41}
+        - {x: -41.5, y: 41}
+        - {x: -41.5, y: -7}
+        - {x: -35.5, y: -14}
+        - {x: 22.5, y: -14}
+        - {x: 30.5, y: -8}
+        - {x: 39.5, y: 6}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46}
+        - {x: -40.5, y: -4}
+        - {x: -24.5, y: -16}
+        - {x: 37.5, y: -16}
+        - {x: 39.5, y: -8}
+        - {x: 39.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 47}
+        - {x: -40.5, y: 47}
+        - {x: -40.5, y: 5}
+        - {x: -38.5, y: -4}
+        - {x: -29.5, y: -15}
+        - {x: -19.5, y: -18}
+        - {x: 33.5, y: -18}
+        - {x: 39.5, y: -5}
+        - {x: 39.5, y: 47}
+        - {x: 33.5, y: 47}
+        - {x: 23.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24}
+        - {x: -16.5, y: 37}
+        - {x: -36.5, y: 37}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: -16.5, y: -17}
+        - {x: 28.5, y: -17}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 37}
+        - {x: 31.5, y: 37}
+        - {x: 24.5, y: 36}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 11}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -21}
+        - {x: 39.5, y: -21}
+        - {x: 39.5, y: 11}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 13}
+        - {x: -40.5, y: -21}
+        - {x: -34.5, y: -28}
+        - {x: 39.5, y: -28}
+        - {x: 39.5, y: 13}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -40.5, y: 10}
+        - {x: -40.5, y: -27}
+        - {x: -39.5, y: -30}
+        - {x: -33.5, y: -32}
+        - {x: 39.5, y: -32}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -33}
+        - {x: 39.5, y: -31}
+        - {x: 39.5, y: 3}
+        - {x: 29.5, y: 9}
+        - {x: 16.5, y: 15}
+        - {x: -22.5, y: 15}
+        - {x: -29.5, y: 13}
+        - {x: -40.5, y: 2}
+        - {x: -40.5, y: -26}
+        - {x: -34.5, y: -34}
+        - {x: -21.5, y: -34}
+        - {x: -9.5, y: -27}
+        - {x: -3.5, y: -20}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 14}
+        - {x: -40.5, y: 11}
+        - {x: -40.5, y: -20}
+        - {x: -39.5, y: -24}
+        - {x: 39.5, y: -24}
+        - {x: 39.5, y: 7}
+        - {x: 35.5, y: 14}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: 32.5, y: -13}
+        - {x: 39.5, y: 0}
+        - {x: 39.5, y: 30}
+        - {x: 36.5, y: 31}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 38}
+        - {x: 38.5, y: 41}
+        - {x: -41.5, y: 41}
+        - {x: -41.5, y: -7}
+        - {x: -35.5, y: -14}
+        - {x: 22.5, y: -14}
+        - {x: 30.5, y: -8}
+        - {x: 39.5, y: 6}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46}
+        - {x: -40.5, y: -4}
+        - {x: -24.5, y: -16}
+        - {x: 37.5, y: -16}
+        - {x: 39.5, y: -8}
+        - {x: 39.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_30
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 47}
+        - {x: -40.5, y: 47}
+        - {x: -40.5, y: 5}
+        - {x: -38.5, y: -4}
+        - {x: -29.5, y: -15}
+        - {x: -19.5, y: -18}
+        - {x: 33.5, y: -18}
+        - {x: 39.5, y: -5}
+        - {x: 39.5, y: 47}
+        - {x: 33.5, y: 47}
+        - {x: 23.5, y: 46}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 24}
+        - {x: -16.5, y: 37}
+        - {x: -36.5, y: 37}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: -16.5, y: -17}
+        - {x: 28.5, y: -17}
+        - {x: 39.5, y: -11}
+        - {x: 39.5, y: 37}
+        - {x: 31.5, y: 37}
+        - {x: 24.5, y: 36}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 11}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -21}
+        - {x: 39.5, y: -21}
+        - {x: 39.5, y: 11}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 13}
+        - {x: -40.5, y: -21}
+        - {x: -34.5, y: -28}
+        - {x: 39.5, y: -28}
+        - {x: 39.5, y: 13}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 14}
+        - {x: -14.5, y: 14}
+        - {x: -40.5, y: 10}
+        - {x: -40.5, y: -27}
+        - {x: -39.5, y: -30}
+        - {x: -33.5, y: -32}
+        - {x: 39.5, y: -32}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -33}
+        - {x: 39.5, y: -31}
+        - {x: 39.5, y: 3}
+        - {x: 29.5, y: 9}
+        - {x: 16.5, y: 15}
+        - {x: -22.5, y: 15}
+        - {x: -29.5, y: 13}
+        - {x: -40.5, y: 2}
+        - {x: -40.5, y: -26}
+        - {x: -34.5, y: -34}
+        - {x: -21.5, y: -34}
+        - {x: -9.5, y: -27}
+        - {x: -3.5, y: -20}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 14}
+        - {x: -40.5, y: 11}
+        - {x: -40.5, y: -20}
+        - {x: -39.5, y: -24}
+        - {x: 39.5, y: -24}
+        - {x: 39.5, y: 7}
+        - {x: 35.5, y: 14}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 31}
+        - {x: -40.5, y: 26}
+        - {x: -40.5, y: -13}
+        - {x: 32.5, y: -13}
+        - {x: 39.5, y: 0}
+        - {x: 39.5, y: 30}
+        - {x: 36.5, y: 31}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 38}
+        - {x: 38.5, y: 41}
+        - {x: -41.5, y: 41}
+        - {x: -41.5, y: -7}
+        - {x: -35.5, y: -14}
+        - {x: 22.5, y: -14}
+        - {x: 30.5, y: -8}
+        - {x: 39.5, y: 6}
+    - name: npc_batterfly__x1_front_turned_png_1354831847_39
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46}
+        - {x: -40.5, y: -4}
+        - {x: -24.5, y: -16}
+        - {x: 37.5, y: -16}
+        - {x: 39.5, y: -8}
+        - {x: 39.5, y: 46}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
